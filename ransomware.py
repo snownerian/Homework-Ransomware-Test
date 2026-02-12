@@ -1,4 +1,4 @@
-import os
+kimport os
 from cryptography.fernet import Fernet
 
 #generar clave
